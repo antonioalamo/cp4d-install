@@ -1,0 +1,1 @@
+export DATASTAGE_TYPE=datastage_ent
